@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="49.9937" height="49.9937" viewBox="0 0 49.99 49.99" enable-background="new 0 0 49.99 49.99" xml:space="preserve">
+	<ellipse fill="#64B120" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" stroke="#64B120" stroke-opacity="1" cx="24.9344" cy="24.4969" rx="20.2475" ry="20.06"/>
+	<ellipse fill="#64B120" fill-opacity="1" stroke-width="0.999875" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" cx="24.2678" cy="22.8305" rx="4.62442" ry="4.58276"/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 19.6226,13.6025L 30.6419,13.6025C 33.9552,13.6025 36.6411,16.2884 36.6411,19.6017L 36.6411,30.2671C 36.6411,33.5804 33.9552,36.2663 30.6419,36.2663L 19.6226,36.2663C 16.3093,36.2663 13.6233,33.5804 13.6233,30.2671L 13.6233,19.6017C 13.6233,16.2884 16.3093,13.6025 19.6226,13.6025 Z "/>
+	<path fill="#64B120" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 28.8089,20.4349L 36.8183,20.4349L 36.8183,21.5598L 29.4484,21.5494L 28.8089,20.4349 Z "/>
+	<path fill="#64B120" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 13.2275,20.5599L 21.8098,20.5599L 20.956,21.6848L 13.2275,21.6848L 13.2275,20.5599 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 31.8085,15.3106L 33.8082,15.3106C 34.3604,15.3106 34.8081,15.7583 34.8081,16.3105L 34.8081,18.0603C 34.8081,18.6125 34.3604,19.0602 33.8082,19.0602L 31.8085,19.0602C 31.2563,19.0602 30.8086,18.6125 30.8086,18.0603L 30.8086,16.3105C 30.8086,15.7583 31.2563,15.3106 31.8085,15.3106 Z "/>
+	<path fill="#64B120" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 18.456,13.1963L 19.5669,13.0088L 19.5669,18.9976L 18.456,18.9976L 18.456,13.1963 Z "/>
+	<path fill="#64B120" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 16.0032,14.1961L 17.5811,13.2744L 17.5811,18.9351L 16.0397,18.9351L 16.0032,14.1961 Z "/>
+	<ellipse fill="#64B120" fill-opacity="1" stroke-width="0.999875" stroke-linejoin="round" cx="25.0385" cy="24.5803" rx="6.04091" ry="6.04091"/>
+	<ellipse fill="#64B120" fill-opacity="1" stroke-width="1.99975" stroke-linejoin="round" stroke="#FFFFFF" stroke-opacity="1" cx="25.0789" cy="24.5161" rx="3.93701" ry="3.81203"/>
+	<rect x="30.4742" y="15.7463" fill="#64B120" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="3.33292" height="3.41624"/>
+</svg>

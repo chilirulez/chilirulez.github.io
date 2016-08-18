@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="49.9937" height="49.9937" viewBox="0 0 49.99 49.99" enable-background="new 0 0 49.99 49.99" xml:space="preserve">
+	<ellipse fill="#FFFFFF" fill-opacity="1" stroke-width="0.999875" stroke-linejoin="round" cx="24.9344" cy="24.4969" rx="20.2475" ry="20.06"/>
+	<path fill="#64B120" fill-opacity="1" stroke-width="0.999875" stroke-linejoin="round" d="M 19.7892,13.0192L 30.8085,13.0192C 34.1218,13.0192 36.8078,15.7052 36.8078,19.0185L 36.8078,29.6838C 36.8078,32.9971 34.1218,35.683 30.8085,35.683L 19.7892,35.683C 16.4759,35.683 13.79,32.9971 13.79,29.6838L 13.79,19.0185C 13.79,15.7052 16.4759,13.0192 19.7892,13.0192 Z "/>
+	<path fill="#DBDCDB" fill-opacity="1" stroke-width="1.99975" stroke-linejoin="round" d="M 28.8089,20.4349L 36.8183,20.4349L 36.8183,21.5598L 29.4484,21.5494L 28.8089,20.4349 Z "/>
+	<path fill="#DBDCDB" fill-opacity="1" stroke-width="1.99975" stroke-linejoin="round" d="M 13.7275,20.3933L 22.3097,20.3933L 21.456,21.5181L 13.7275,21.5181L 13.7275,20.3933 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.999875" stroke-linejoin="round" d="M 31.8085,15.3106L 33.8082,15.3106C 34.3604,15.3106 34.8081,15.7583 34.8081,16.3105L 34.8081,18.0603C 34.8081,18.6125 34.3604,19.0602 33.8082,19.0602L 31.8085,19.0602C 31.2563,19.0602 30.8086,18.6125 30.8086,18.0603L 30.8086,16.3105C 30.8086,15.7583 31.2563,15.3106 31.8085,15.3106 Z "/>
+	<ellipse fill="#FFFFFF" fill-opacity="1" stroke-width="0.999875" stroke-linejoin="round" cx="25.3302" cy="24.5803" rx="3.22876" ry="3.31209"/>
+	<ellipse fill="none" stroke-width="0.999875" stroke-linejoin="round" stroke="#FFFFFF" stroke-opacity="1" cx="25.3302" cy="24.4553" rx="5.18685" ry="5.31183"/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.999875" stroke-linejoin="round" d="M 18.3935,13.1338L 19.8725,12.9463L 19.8725,18.9351L 18.3935,18.9351L 18.3935,13.1338 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.999875" stroke-linejoin="round" d="M 16.0032,14.1961L 17.5811,13.2744L 17.5811,18.9351L 16.0397,18.9351L 16.0032,14.1961 Z "/>
+</svg>
